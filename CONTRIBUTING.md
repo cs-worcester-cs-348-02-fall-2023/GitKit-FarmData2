@@ -56,7 +56,7 @@ To participate by Gardening visit the [Issue Tracker] and find something of inte
 
 #### Documentation ####
 
-Update to any of the FarmData2 documentation are welcome.  If you find typos, unclear or missing steps, poorly worded explanations, or have any other suggestions for how the documentation could be improved use the [workflow](#workflow) described below to create a pull request for your suggested changes.
+Updates to any of the FarmData2 documentation are welcome.  If you find typos, unclear or missing steps, poorly worded explanations, or have any other suggestions for how the documentation could be improved use the [workflow](#workflow) described below to create a pull request for your suggested changes.
 
 #### Bug Fix / Feature Implementation ####
 
@@ -94,3 +94,4 @@ As a reference, the basic steps for working with GitHub Flow are as follows:
 [Clone]: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 [FarmData2 Repository]: https://github.com/DickinsonCollege/FarmData2
 [Creating a commit with multiple authors]: https://docs.github.com/en/free-pro-team@latest/github/committing-changes-to-your-project/creating-a-commit-with-multiple-authors
+
